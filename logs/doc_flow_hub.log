@@ -1,0 +1,754 @@
+2025-07-16 10:35:08,996 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:08,996 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:08,998 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:08,998 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:08,998 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V3.0.1 from proj_C_V3.0.1_USECASE.txt
+2025-07-16 10:35:08,998 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V3.0.1 from proj_C_V3.0.1_USECASE.txt
+2025-07-16 10:35:09,028 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,028 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,029 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,029 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,029 - doc_flow_hub.core - ERROR - Filename does not contain sufficient parts for parsing: invalid_filename
+2025-07-16 10:35:09,029 - doc_flow_hub.core - ERROR - Filename does not contain sufficient parts for parsing: invalid_filename
+2025-07-16 10:35:09,269 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,269 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,270 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,270 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,270 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from test_proj_V1.0_PRD.txt
+2025-07-16 10:35:09,270 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from test_proj_V1.0_PRD.txt
+2025-07-16 10:35:09,270 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test' version 'proj' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/test/proj/test_proj_V1.0_PRD.txt
+2025-07-16 10:35:09,270 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test' version 'proj' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/test/proj/test_proj_V1.0_PRD.txt
+2025-07-16 10:35:09,276 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,276 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,276 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,276 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,276 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:09,276 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:09,277 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj' version 'X' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/X/proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:09,277 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj' version 'X' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/X/proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:09,277 - doc_flow_hub.core - WARNING - Document 'proj_X_V1.0_PRD' not found.
+2025-07-16 10:35:09,277 - doc_flow_hub.core - WARNING - Document 'proj_X_V1.0_PRD' not found.
+2025-07-16 10:35:09,287 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,287 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,287 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,287 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,287 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:09,287 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:09,288 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:09,288 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:09,288 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:09,288 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:09,288 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:09,288 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:09,288 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V2.0 from proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:09,288 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V2.0 from proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:09,289 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:09,289 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:09,289 - doc_flow_hub.core - WARNING - No documents found for project 'proj_Y' and type 'LLD'.
+2025-07-16 10:35:09,289 - doc_flow_hub.core - WARNING - No documents found for project 'proj_Y' and type 'LLD'.
+2025-07-16 10:35:09,306 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,306 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,306 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,306 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,307 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:35:09,307 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:35:09,307 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:09,307 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:09,308 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual' version 'proj' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/actual/proj/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:09,308 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual' version 'proj' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/actual/proj/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:09,308 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:35:09,308 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:35:09,308 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:35:09,308 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:35:09,309 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,309 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,309 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,309 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,309 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:09,309 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:09,309 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:09,309 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:09,310 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_L_V1.1_LLD.doc
+2025-07-16 10:35:09,310 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_L_V1.1_LLD.doc
+2025-07-16 10:35:09,310 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.1_LLD.doc
+2025-07-16 10:35:09,310 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.1_LLD.doc
+2025-07-16 10:35:09,310 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:09,310 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:09,310 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj' version 'M' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/M/proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:09,310 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj' version 'M' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/M/proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:09,310 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:09,310 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:09,311 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:09,311 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_L_V1.1_LLD.doc
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_L_V1.1_LLD.doc
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:09,312 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:09,313 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:09,313 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:09,313 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V2.0 from proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:09,313 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V2.0 from proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:09,313 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from test_proj_V1.0_PRD.txt
+2025-07-16 10:35:09,313 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from test_proj_V1.0_PRD.txt
+2025-07-16 10:35:09,313 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:09,313 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:09,318 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,318 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:09,318 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,318 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:09,319 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:09,319 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:09,319 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:09,319 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:09,319 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:09,319 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:09,320 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:09,321 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:09,321 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:09,321 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:09,321 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:09,321 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:09,321 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:09,322 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:09,322 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:09,322 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:09,322 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:09,322 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:09,322 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:09,322 - doc_flow_hub.core - INFO - Found 0 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:35:09,322 - doc_flow_hub.core - INFO - Found 0 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:35:49,753 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,753 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,753 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,753 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,754 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V3.0.1 from proj_C_V3.0.1_USECASE.txt
+2025-07-16 10:35:49,754 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V3.0.1 from proj_C_V3.0.1_USECASE.txt
+2025-07-16 10:35:49,855 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,855 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,855 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,855 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,856 - doc_flow_hub.core - ERROR - Filename does not contain sufficient parts for parsing: invalid_filename
+2025-07-16 10:35:49,856 - doc_flow_hub.core - ERROR - Filename does not contain sufficient parts for parsing: invalid_filename
+2025-07-16 10:35:49,860 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,860 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,861 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,861 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,861 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from test_proj_V1.0_PRD.txt
+2025-07-16 10:35:49,861 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from test_proj_V1.0_PRD.txt
+2025-07-16 10:35:49,861 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test' version 'proj' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/test/proj/test_proj_V1.0_PRD.txt
+2025-07-16 10:35:49,861 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test' version 'proj' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/test/proj/test_proj_V1.0_PRD.txt
+2025-07-16 10:35:49,875 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,875 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,875 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,875 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,876 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:49,876 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:49,876 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj' version 'X' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/X/proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:49,876 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj' version 'X' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/X/proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:49,876 - doc_flow_hub.core - WARNING - Document 'proj_X_V1.0_PRD' not found.
+2025-07-16 10:35:49,876 - doc_flow_hub.core - WARNING - Document 'proj_X_V1.0_PRD' not found.
+2025-07-16 10:35:49,886 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,886 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,886 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,886 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,887 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:49,887 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:49,887 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:49,887 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:49,887 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:49,887 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:49,888 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:49,888 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:49,888 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V2.0 from proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:49,888 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V2.0 from proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:49,888 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:49,888 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj' version 'Y' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Y/proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:49,888 - doc_flow_hub.core - WARNING - No documents found for project 'proj_Y' and type 'LLD'.
+2025-07-16 10:35:49,888 - doc_flow_hub.core - WARNING - No documents found for project 'proj_Y' and type 'LLD'.
+2025-07-16 10:35:49,900 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,900 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,901 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,901 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,901 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:35:49,901 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:35:49,902 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:49,902 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:49,902 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual' version 'proj' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/actual/proj/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:49,902 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual' version 'proj' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/actual/proj/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:49,902 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:35:49,902 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:35:49,902 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:35:49,902 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:35:49,903 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,903 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,903 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,903 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,904 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:49,904 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:49,904 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:49,904 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:49,904 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_L_V1.1_LLD.doc
+2025-07-16 10:35:49,904 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_L_V1.1_LLD.doc
+2025-07-16 10:35:49,905 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.1_LLD.doc
+2025-07-16 10:35:49,905 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.1_LLD.doc
+2025-07-16 10:35:49,905 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:49,905 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:49,905 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj' version 'M' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/M/proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:49,905 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj' version 'M' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/M/proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:49,905 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:49,905 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:49,905 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:49,905 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj' version 'L' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/L/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:49,907 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_M_V1.0_PRD.pdf
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_X_V1.0_PRD.pdf
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_L_V1.1_LLD.doc
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_L_V1.1_LLD.doc
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_PRD.pdf
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_L_V1.0_CR_001.pdf
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Y_V1.1_LLD.doc
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Y_V1.0_LLD.doc
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V2.0 from proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:49,908 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V2.0 from proj_Y_V2.0_LLD.doc
+2025-07-16 10:35:49,909 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from test_proj_V1.0_PRD.txt
+2025-07-16 10:35:49,909 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from test_proj_V1.0_PRD.txt
+2025-07-16 10:35:49,909 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:49,909 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from actual_proj_V1.0_PRD.pdf
+2025-07-16 10:35:49,913 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,913 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:35:49,914 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,914 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:35:49,914 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:49,914 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:49,914 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:49,914 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:35:49,915 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:49,915 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:49,915 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:49,915 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:35:49,915 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:49,915 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:49,915 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:49,915 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:35:49,916 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:49,916 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:49,916 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:49,916 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:35:49,916 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:49,916 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.0 from proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:49,916 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:49,916 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:35:49,917 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:49,917 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:49,917 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:49,917 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:35:49,917 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:49,917 - doc_flow_hub.core - WARNING - Unknown main document type extracted: V1.1 from proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:49,918 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:49,918 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj' version 'Z' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj/Z/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:35:49,918 - doc_flow_hub.core - INFO - Found 0 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:35:49,918 - doc_flow_hub.core - INFO - Found 0 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:36:27,270 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,270 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,271 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,271 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,305 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,305 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,305 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,305 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,305 - doc_flow_hub.core - ERROR - Filename format error: invalid_filename
+2025-07-16 10:36:27,305 - doc_flow_hub.core - ERROR - Filename format error: invalid_filename
+2025-07-16 10:36:27,311 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,311 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,311 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,311 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,312 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 10:36:27,312 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 10:36:27,318 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,318 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,319 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,319 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,319 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 10:36:27,319 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 10:36:27,320 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,320 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,320 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,320 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,321 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 10:36:27,321 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 10:36:27,321 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 10:36:27,321 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 10:36:27,322 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:36:27,322 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:36:27,322 - doc_flow_hub.core - INFO - Found latest version '2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:36:27,322 - doc_flow_hub.core - INFO - Found latest version '2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:36:27,322 - doc_flow_hub.storage.filesystem - WARNING - Document not found at path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Y/2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:36:27,322 - doc_flow_hub.storage.filesystem - WARNING - Document not found at path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Y/2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:36:27,322 - doc_flow_hub.core - ERROR - Document file not found at expected path for 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:36:27,322 - doc_flow_hub.core - ERROR - Document file not found at expected path for 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:36:27,335 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,335 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,336 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,336 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,336 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:36:27,336 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:36:27,336 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:36:27,336 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:36:27,337 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:36:27,337 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:36:27,337 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:36:27,337 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:36:27,338 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,338 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,338 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,338 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,338 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 10:36:27,338 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 10:36:27,339 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 10:36:27,339 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 10:36:27,339 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 10:36:27,339 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 10:36:27,339 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:36:27,339 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:36:27,350 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,350 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 10:36:27,350 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,350 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 10:36:27,351 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:36:27,351 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:36:27,351 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:36:27,351 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:36:27,352 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:36:27,352 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:36:27,352 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:36:27,352 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:36:27,352 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:36:27,352 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:36:27,353 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:36:27,353 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:36:27,353 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:36:27,353 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:36:27,353 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:36:27,353 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:36:27,354 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 10:36:27,354 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 10:36:27,354 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD
+2025-07-16 10:36:27,354 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD
+2025-07-16 10:37:08,468 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,468 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,469 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,469 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,470 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 10:37:08,470 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 10:37:08,471 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,471 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,472 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,472 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,472 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 10:37:08,472 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 10:37:08,474 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,474 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,475 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,475 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,476 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 10:37:08,476 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 10:37:08,477 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 10:37:08,477 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 10:37:08,477 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:08,477 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:08,478 - doc_flow_hub.core - INFO - Found latest version '2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:08,478 - doc_flow_hub.core - INFO - Found latest version '2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:08,478 - doc_flow_hub.storage.filesystem - WARNING - Document not found at path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Y/2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:08,478 - doc_flow_hub.storage.filesystem - WARNING - Document not found at path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Y/2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:08,478 - doc_flow_hub.core - ERROR - Document file not found at expected path for 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:08,478 - doc_flow_hub.core - ERROR - Document file not found at expected path for 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:08,488 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,488 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,489 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,489 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,490 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:37:08,490 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:37:08,490 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:37:08,490 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:37:08,490 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:37:08,490 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:37:08,490 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:37:08,490 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:37:08,491 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,491 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,491 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,491 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,492 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 10:37:08,492 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 10:37:08,492 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 10:37:08,492 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 10:37:08,493 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 10:37:08,493 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 10:37:08,493 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:37:08,493 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:37:08,495 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,495 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,495 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,495 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0
+2025-07-16 10:37:08,496 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:37:08,496 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:37:08,497 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:37:08,497 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:37:08,497 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:37:08,497 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:37:08,497 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:37:08,497 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:37:08,498 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:37:08,498 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:37:08,498 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:37:08,498 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:37:08,498 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:37:08,498 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-65/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:37:08,499 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:37:08,499 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:37:08,499 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 10:37:08,499 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 10:37:08,499 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD
+2025-07-16 10:37:08,499 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD
+2025-07-16 10:37:27,629 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,629 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,630 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,630 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,631 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,631 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,632 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,632 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,632 - doc_flow_hub.core - ERROR - Filename format error: invalid_filename
+2025-07-16 10:37:27,632 - doc_flow_hub.core - ERROR - Filename format error: invalid_filename
+2025-07-16 10:37:27,633 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,633 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,633 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,633 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,634 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 10:37:27,634 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 10:37:27,635 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,635 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,635 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,635 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,636 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 10:37:27,636 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 10:37:27,637 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,637 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,638 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,638 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,638 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 10:37:27,638 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 10:37:27,639 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 10:37:27,639 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 10:37:27,639 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:27,639 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:27,639 - doc_flow_hub.core - INFO - Found latest version '2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:27,639 - doc_flow_hub.core - INFO - Found latest version '2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:27,640 - doc_flow_hub.storage.filesystem - WARNING - Document not found at path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Y/2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:27,640 - doc_flow_hub.storage.filesystem - WARNING - Document not found at path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Y/2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:27,640 - doc_flow_hub.core - ERROR - Document file not found at expected path for 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:27,640 - doc_flow_hub.core - ERROR - Document file not found at expected path for 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:27,691 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,691 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,691 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,691 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,692 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:37:27,692 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:37:27,693 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:37:27,693 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:37:27,693 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:37:27,693 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:37:27,693 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:37:27,693 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:37:27,694 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,694 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,694 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,694 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,695 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 10:37:27,695 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 10:37:27,695 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 10:37:27,695 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 10:37:27,696 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 10:37:27,696 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 10:37:27,696 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:37:27,696 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:37:27,699 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,699 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,700 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,700 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0
+2025-07-16 10:37:27,702 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:37:27,702 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:37:27,703 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:37:27,703 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:37:27,703 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:37:27,703 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:37:27,703 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:37:27,703 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:37:27,704 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:37:27,704 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:37:27,704 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:37:27,704 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:37:27,704 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:37:27,704 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-66/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:37:27,704 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:37:27,704 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:37:27,705 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 10:37:27,705 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 10:37:27,705 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD
+2025-07-16 10:37:27,705 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD
+2025-07-16 10:37:48,277 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,277 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,278 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,278 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,279 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,279 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,279 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,279 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,280 - doc_flow_hub.core - ERROR - Filename format error: invalid_filename
+2025-07-16 10:37:48,280 - doc_flow_hub.core - ERROR - Filename format error: invalid_filename
+2025-07-16 10:37:48,281 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,281 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,282 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,282 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,283 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 10:37:48,283 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 10:37:48,284 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,284 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,284 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,284 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,285 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 10:37:48,285 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 10:37:48,286 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,286 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,286 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,286 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,287 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 10:37:48,287 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 10:37:48,288 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 10:37:48,288 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 10:37:48,288 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:48,288 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 10:37:48,288 - doc_flow_hub.core - INFO - Found latest version 'V2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:48,288 - doc_flow_hub.core - INFO - Found latest version 'V2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 10:37:48,289 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0.1_LLD.doc' for project 'proj_Y' version 'V2.0.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Y/V2.0.1/proj_Y_V2.0.1_LLD.doc
+2025-07-16 10:37:48,289 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0.1_LLD.doc' for project 'proj_Y' version 'V2.0.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Y/V2.0.1/proj_Y_V2.0.1_LLD.doc
+2025-07-16 10:37:48,289 - doc_flow_hub.core - INFO - Found latest version 'V2.0.1' for 'proj_Y' 'LLD' as 'proj_Y_V2.0.1_LLD.doc'.
+2025-07-16 10:37:48,289 - doc_flow_hub.core - INFO - Found latest version 'V2.0.1' for 'proj_Y' 'LLD' as 'proj_Y_V2.0.1_LLD.doc'.
+2025-07-16 10:37:48,290 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,290 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,291 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,291 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,292 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:37:48,292 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 10:37:48,293 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:37:48,293 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 10:37:48,293 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:37:48,293 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 10:37:48,293 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:37:48,293 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 10:37:48,294 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,294 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,295 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,295 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,296 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 10:37:48,296 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 10:37:48,304 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 10:37:48,304 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 10:37:48,307 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 10:37:48,307 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 10:37:48,308 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:37:48,308 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 10:37:48,311 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,311 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,311 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,311 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0
+2025-07-16 10:37:48,313 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:37:48,313 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 10:37:48,314 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:37:48,314 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 10:37:48,314 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:37:48,314 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 10:37:48,314 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:37:48,314 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 10:37:48,315 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:37:48,315 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 10:37:48,315 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:37:48,315 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 10:37:48,316 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:37:48,316 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-67/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 10:37:48,316 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:37:48,316 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 10:37:48,317 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 10:37:48,317 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 10:37:48,317 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD
+2025-07-16 10:37:48,317 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD
+2025-07-16 16:17:37,344 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 16:17:37,344 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 16:17:37,344 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 16:17:37,344 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 16:21:26,488 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 16:21:26,488 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 16:21:26,490 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 16:21:26,490 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 16:29:08,678 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 16:29:08,678 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 16:29:08,679 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 16:29:08,679 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 16:29:37,172 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 16:29:37,172 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs
+2025-07-16 16:29:37,173 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 16:29:37,173 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: data/docs
+2025-07-16 16:29:37,182 - doc_flow_hub.main - INFO - FastAPI application created and router included.
+2025-07-16 16:29:37,182 - doc_flow_hub.main - INFO - FastAPI application created and router included.
+2025-07-16 16:31:08,713 - doc_flow_hub.core - ERROR - Filename format error: 记录.rtf
+2025-07-16 16:31:08,713 - doc_flow_hub.core - ERROR - Filename format error: 记录.rtf
+2025-07-16 16:31:08,717 - doc_flow_hub.core - ERROR - Failed to parse filename '记录.rtf': Filename format error: 记录.rtf
+2025-07-16 16:31:08,717 - doc_flow_hub.core - ERROR - Failed to parse filename '记录.rtf': Filename format error: 记录.rtf
+2025-07-16 16:31:08,717 - doc_flow_hub.api_routes - ERROR - Filename error during upload for '记录.rtf': Invalid filename: Filename format error: 记录.rtf
+2025-07-16 16:31:08,717 - doc_flow_hub.api_routes - ERROR - Filename error during upload for '记录.rtf': Invalid filename: Filename format error: 记录.rtf
+2025-07-16 16:31:12,841 - doc_flow_hub.core - ERROR - Filename format error: 记录.rtf
+2025-07-16 16:31:12,841 - doc_flow_hub.core - ERROR - Filename format error: 记录.rtf
+2025-07-16 16:31:12,842 - doc_flow_hub.core - ERROR - Failed to parse filename '记录.rtf': Filename format error: 记录.rtf
+2025-07-16 16:31:12,842 - doc_flow_hub.core - ERROR - Failed to parse filename '记录.rtf': Filename format error: 记录.rtf
+2025-07-16 16:31:12,842 - doc_flow_hub.api_routes - ERROR - Filename error during upload for '记录.rtf': Invalid filename: Filename format error: 记录.rtf
+2025-07-16 16:31:12,842 - doc_flow_hub.api_routes - ERROR - Filename error during upload for '记录.rtf': Invalid filename: Filename format error: 记录.rtf
+2025-07-16 16:36:29,407 - doc_flow_hub.core - WARNING - Unknown main document type extracted: PRD.PDF from projectA_V1.0_PRD.pdf.md
+2025-07-16 16:36:29,407 - doc_flow_hub.core - WARNING - Unknown main document type extracted: PRD.PDF from projectA_V1.0_PRD.pdf.md
+2025-07-16 16:36:29,410 - doc_flow_hub.core - INFO - Document 'projectA_V1.0_PRD.pdf.md' for project 'projectA' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/projectA/V1.0/projectA_V1.0_PRD.pdf.md
+2025-07-16 16:36:29,410 - doc_flow_hub.core - INFO - Document 'projectA_V1.0_PRD.pdf.md' for project 'projectA' version 'V1.0' uploaded to /Users/zhaoxuefeng/GitHub/doc_flow_hub/data/docs/projectA/V1.0/projectA_V1.0_PRD.pdf.md
+2025-07-16 16:36:29,410 - doc_flow_hub.api_routes - INFO - Document 'projectA_V1.0_PRD.pdf.md' uploaded successfully.
+2025-07-16 16:36:29,410 - doc_flow_hub.api_routes - INFO - Document 'projectA_V1.0_PRD.pdf.md' uploaded successfully.
+2025-07-16 16:39:06,609 - doc_flow_hub.core - WARNING - Unknown main document type extracted: PRD.PDF from projectA_V1.0_PRD.pdf.md
+2025-07-16 16:39:06,609 - doc_flow_hub.core - WARNING - Unknown main document type extracted: PRD.PDF from projectA_V1.0_PRD.pdf.md
+2025-07-16 16:39:06,612 - doc_flow_hub.core - WARNING - No documents found for project 'projectA' and type 'PRD'.
+2025-07-16 16:39:06,612 - doc_flow_hub.core - WARNING - No documents found for project 'projectA' and type 'PRD'.
+2025-07-16 16:39:06,613 - doc_flow_hub.api_routes - WARNING - Document not found: No documents found for project 'projectA' and type 'PRD'.
+2025-07-16 16:39:06,613 - doc_flow_hub.api_routes - WARNING - Document not found: No documents found for project 'projectA' and type 'PRD'.
+2025-07-16 16:39:22,951 - doc_flow_hub.core - WARNING - Unknown main document type extracted: PRD.PDF from projectA_V1.0_PRD.pdf.md
+2025-07-16 16:39:22,951 - doc_flow_hub.core - WARNING - Unknown main document type extracted: PRD.PDF from projectA_V1.0_PRD.pdf.md
+2025-07-16 16:39:22,953 - doc_flow_hub.core - WARNING - No documents found for project 'projectA' and type 'prd'.
+2025-07-16 16:39:22,953 - doc_flow_hub.core - WARNING - No documents found for project 'projectA' and type 'prd'.
+2025-07-16 16:39:22,953 - doc_flow_hub.api_routes - WARNING - Document not found: No documents found for project 'projectA' and type 'prd'.
+2025-07-16 16:39:22,953 - doc_flow_hub.api_routes - WARNING - Document not found: No documents found for project 'projectA' and type 'prd'.
+2025-07-16 16:40:11,775 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,775 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,776 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,776 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,777 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,777 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,777 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,777 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,778 - doc_flow_hub.core - ERROR - Filename format error: invalid_filename
+2025-07-16 16:40:11,778 - doc_flow_hub.core - ERROR - Filename format error: invalid_filename
+2025-07-16 16:40:11,779 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,779 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,779 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,779 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,779 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 16:40:11,779 - doc_flow_hub.core - INFO - Document 'test_proj_V1.0_PRD.txt' for project 'test_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/test_proj/V1.0/test_proj_V1.0_PRD.txt
+2025-07-16 16:40:11,780 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,780 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,780 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,780 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,781 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 16:40:11,781 - doc_flow_hub.core - INFO - Document 'proj_X_V1.0_PRD.pdf' for project 'proj_X' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_X/V1.0/proj_X_V1.0_PRD.pdf
+2025-07-16 16:40:11,782 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,782 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,782 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,782 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,783 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 16:40:11,783 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.0_LLD.doc' for project 'proj_Y' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Y/V1.0/proj_Y_V1.0_LLD.doc
+2025-07-16 16:40:11,784 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 16:40:11,784 - doc_flow_hub.core - INFO - Document 'proj_Y_V1.1_LLD.doc' for project 'proj_Y' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Y/V1.1/proj_Y_V1.1_LLD.doc
+2025-07-16 16:40:11,784 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 16:40:11,784 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0_LLD.doc' for project 'proj_Y' version 'V2.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Y/V2.0/proj_Y_V2.0_LLD.doc
+2025-07-16 16:40:11,785 - doc_flow_hub.core - INFO - Found latest version 'V2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 16:40:11,785 - doc_flow_hub.core - INFO - Found latest version 'V2.0' for 'proj_Y' 'LLD' as 'proj_Y_V2.0_LLD.doc'.
+2025-07-16 16:40:11,786 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0.1_LLD.doc' for project 'proj_Y' version 'V2.0.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Y/V2.0.1/proj_Y_V2.0.1_LLD.doc
+2025-07-16 16:40:11,786 - doc_flow_hub.core - INFO - Document 'proj_Y_V2.0.1_LLD.doc' for project 'proj_Y' version 'V2.0.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Y/V2.0.1/proj_Y_V2.0.1_LLD.doc
+2025-07-16 16:40:11,786 - doc_flow_hub.core - INFO - Found latest version 'V2.0.1' for 'proj_Y' 'LLD' as 'proj_Y_V2.0.1_LLD.doc'.
+2025-07-16 16:40:11,786 - doc_flow_hub.core - INFO - Found latest version 'V2.0.1' for 'proj_Y' 'LLD' as 'proj_Y_V2.0.1_LLD.doc'.
+2025-07-16 16:40:11,787 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,787 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,788 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,788 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,788 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 16:40:11,788 - doc_flow_hub.core - WARNING - Document 'nonexistent_proj_V1.0_PRD' not found.
+2025-07-16 16:40:11,789 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 16:40:11,789 - doc_flow_hub.core - INFO - Document 'actual_proj_V1.0_PRD.pdf' for project 'actual_proj' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/actual_proj/V1.0/actual_proj_V1.0_PRD.pdf
+2025-07-16 16:40:11,789 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 16:40:11,789 - doc_flow_hub.core - WARNING - Document 'actual_proj_V1.0_LLD' not found.
+2025-07-16 16:40:11,789 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 16:40:11,789 - doc_flow_hub.core - WARNING - Document 'actual_proj_V2.0_PRD' not found.
+2025-07-16 16:40:11,790 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,790 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,791 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,791 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,792 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 16:40:11,792 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_PRD.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_PRD.pdf
+2025-07-16 16:40:11,792 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 16:40:11,792 - doc_flow_hub.core - INFO - Document 'proj_L_V1.1_LLD.doc' for project 'proj_L' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_L/V1.1/proj_L_V1.1_LLD.doc
+2025-07-16 16:40:11,792 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 16:40:11,792 - doc_flow_hub.core - INFO - Document 'proj_M_V1.0_PRD.pdf' for project 'proj_M' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_M/V1.0/proj_M_V1.0_PRD.pdf
+2025-07-16 16:40:11,793 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 16:40:11,793 - doc_flow_hub.core - INFO - Document 'proj_L_V1.0_CR_001.pdf' for project 'proj_L' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_L/V1.0/proj_L_V1.0_CR_001.pdf
+2025-07-16 16:40:11,795 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,795 - doc_flow_hub.storage.filesystem - INFO - FileSystemStorage initialized with base path: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,795 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,795 - doc_flow_hub.core - INFO - DocFlowHubCore initialized with storage root: /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0
+2025-07-16 16:40:11,796 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 16:40:11,796 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_PRD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_PRD.pdf
+2025-07-16 16:40:11,796 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 16:40:11,796 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_LLD.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_LLD.pdf
+2025-07-16 16:40:11,796 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 16:40:11,796 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_001.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_001.pdf
+2025-07-16 16:40:11,797 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 16:40:11,797 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_CR_002.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_CR_002.pdf
+2025-07-16 16:40:11,797 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 16:40:11,797 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.0_DCN_A.pdf' for project 'proj_Z' version 'V1.0' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.0/proj_Z_V1.0_DCN_A.pdf
+2025-07-16 16:40:11,797 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 16:40:11,797 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_PRD.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_PRD.pdf
+2025-07-16 16:40:11,797 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 16:40:11,797 - doc_flow_hub.core - INFO - Document 'proj_Z_V1.1_CR_001.pdf' for project 'proj_Z' version 'V1.1' uploaded to /private/var/folders/sj/9gkwxdgs4h3ck3kytmdgk4240000gn/T/pytest-of-zhaoxuefeng/pytest-68/doc_test_storage0/proj_Z/V1.1/proj_Z_V1.1_CR_001.pdf
+2025-07-16 16:40:11,798 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 16:40:11,798 - doc_flow_hub.core - INFO - Found 3 related change documents for proj_Z VV1.0 PRD
+2025-07-16 16:40:11,798 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 16:40:11,798 - doc_flow_hub.core - INFO - Found 1 related change documents for proj_Z VV1.1 PRD
+2025-07-16 16:40:11,798 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD
+2025-07-16 16:40:11,798 - doc_flow_hub.core - INFO - Found 0 related change documents for nonexistent VV1.0 PRD

@@ -27,7 +27,7 @@ class DocFlowHubCore:
         # 新的正则表达式来解析文件名
         # 格式: {project_name}_V{version}_{doc_type}.{extension}
         # project_name 可以包含下划线，version 必须以 V 开头，doc_type 可以包含下划线
-        regex = r"^(?P<project_name>.*?)_V(?P<version>\d+\.\d+(?:\.\d+)?(?:[a-zA-Z]\d*)?)_(?P<doc_type>[^.]+?)(?:\.(?P<extension>[^.]+))?$"
+        regex = r"^(?P<project_name>.*?)_V(?P<version>\d+\.\d+(?:\.\d+)?(?:[a-zA-Z]\d*)?)_(?P<doc_type>.*?)(?:\.(?P<extension>[^.]+))?$"
         match = re.match(regex, filename)
 
         if not match:

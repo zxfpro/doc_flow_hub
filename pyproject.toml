@@ -1,10 +1,21 @@
 [project]
-name = "doc-flow-hub"
+name = "doc_flow_hub"
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
-requires-python = ">=3.13"
-dependencies = []
+requires-python = ">=3.10"
+dependencies = [
+    "fastapi>=0.116.1",
+    "flask",
+    "packaging",
+    "pytest>=8.4.1",
+    "uvicorn>=0.35.0",
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest",
+]
 
 [tool.setuptools.package-data]
 doc_flow_hub = [ "config.yaml",]
